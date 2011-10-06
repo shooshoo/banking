@@ -32,8 +32,18 @@ describe Account do
      subject1.transfer_to(subject2,50)
      subject1.balance.should==50.0
      subject2.balance.should==100.0
-
    end
+  it "should check other attributes working" do
+    subject=Account.new(10000.0)
+    subject.holder_name="bamdad"
+    subject.email="bamdadd@gmail.com"
+    subject.tel="0741111"
+    subject.address="Post code: m15 4tl"
+    subject.holder_name.should=="bamdad"
+    subject.email.should=="bamdadd@gmail.com"
+    subject.tel.should=="0741111"
+    subject.address.should=="Post code: m15 4tl"
+  end
 
   #it "should check that the balance is not less than zero" do
   #  subject=Account.new

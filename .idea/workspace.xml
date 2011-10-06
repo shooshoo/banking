@@ -32,19 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="account_spec.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="account_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/specs/account_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="34" selection-start="959" selection-end="959" vertical-scroll-proportion="0.0">
+            <state line="40" column="54" selection-start="1221" selection-end="1221" vertical-scroll-proportion="0.83455884">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="account.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="account.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/account.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="35" selection-start="306" selection-end="306" vertical-scroll-proportion="0.38602942">
+            <state line="2" column="49" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -61,8 +61,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/specs/account_spec.rb" />
         <option value="$PROJECT_DIR$/lib/account.rb" />
+        <option value="$PROJECT_DIR$/specs/account_spec.rb" />
       </list>
     </option>
   </component>
@@ -331,16 +331,23 @@
         <state line="2" column="14" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/account_spec.rb">
+    <entry file="file://$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/example.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="34" selection-start="959" selection-end="959" vertical-scroll-proportion="0.0">
+        <state line="47" column="0" selection-start="1352" selection-end="1352" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/account.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="35" selection-start="306" selection-end="306" vertical-scroll-proportion="0.38602942">
+        <state line="2" column="49" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/account_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="54" selection-start="1221" selection-end="1221" vertical-scroll-proportion="0.83455884">
           <folding />
         </state>
       </provider>
