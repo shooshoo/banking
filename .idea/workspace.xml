@@ -35,7 +35,7 @@
       <file leaf-file-name="account_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/specs/account_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="33" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
+            <state line="6" column="22" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="account.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/account.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="5" selection-start="33" selection-end="33" vertical-scroll-proportion="0.05514706">
+            <state line="1" column="2" selection-start="16" selection-end="16" vertical-scroll-proportion="0.02757353">
               <folding />
             </state>
           </provider>
@@ -109,6 +109,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="banking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccount" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="banking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="specs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -319,14 +333,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/specs/account_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="33" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
+        <state line="6" column="22" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/account.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="5" selection-start="33" selection-end="33" vertical-scroll-proportion="0.05514706">
+        <state line="1" column="2" selection-start="16" selection-end="16" vertical-scroll-proportion="0.02757353">
           <folding />
         </state>
       </provider>
