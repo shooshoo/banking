@@ -32,19 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="account_spec.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="account_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/specs/account_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="25" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0">
+            <state line="27" column="28" selection-start="744" selection-end="744" vertical-scroll-proportion="0.7444853">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="account.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="account.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/account.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="20" selection-start="155" selection-end="155" vertical-scroll-proportion="0.16544117">
+            <state line="7" column="5" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -61,8 +61,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/specs/account_spec.rb" />
         <option value="$PROJECT_DIR$/lib/account.rb" />
+        <option value="$PROJECT_DIR$/specs/account_spec.rb" />
       </list>
     </option>
   </component>
@@ -331,16 +331,16 @@
         <state line="2" column="14" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/account_spec.rb">
+    <entry file="file://$PROJECT_DIR$/lib/account.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="25" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0">
+        <state line="7" column="5" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/account.rb">
+    <entry file="file://$PROJECT_DIR$/specs/account_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="20" selection-start="155" selection-end="155" vertical-scroll-proportion="0.16544117">
+        <state line="27" column="28" selection-start="744" selection-end="744" vertical-scroll-proportion="0.7444853">
           <folding />
         </state>
       </provider>
