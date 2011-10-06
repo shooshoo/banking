@@ -26,6 +26,14 @@ describe Account do
     subject.withdrawal(100.0)
     subject.balance.should==0.0
    end
+   it "should transfer the amount from one account to the other account" do
+     subject1=Account.new(100.0)
+     subject2=Account.new(50.0)
+     subject1.transfer_to(subject2,50)
+     subject1.balance.should==50.0
+     subject2.balance.should==100.0
+
+   end
 
   #it "should check that the balance is not less than zero" do
   #  subject=Account.new

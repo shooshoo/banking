@@ -9,5 +9,8 @@ class Account
   def withdrawal(amount)
     @balance-=amount
   end
-
+  def transfer_to(account,value)
+    self.withdrawal(value)
+    account.deposit(value)
+  end
 end
